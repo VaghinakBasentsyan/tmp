@@ -1,0 +1,4 @@
+Django==5.1.1
+Pillow==10.1.0
+django-admin-inline-paginator==0.4.0
+httpx==0.27.2
